@@ -136,7 +136,7 @@ const handler = async (m, { conn, usedPrefix, __dirname, text, isPrems }) => {
 
                     footer: {
 
-                        text: '✪┋𝐁𝐘┋❥ 𝐓𝐀𝐑𝐁𝐎𝐎☞𝐁𝐎𝐓 ┋✪'
+                        text: '𒌐ᶦᶰᵈ᭄𝗚𝗔𝗧𝗦࿐𒌐'
 
                     },
 
@@ -191,9 +191,9 @@ messageParamsJson: ''
 
         display_text: "『』رقم المطور《",
 
-        url: "https://wa.me/201225655220",
+        url: "https://wa.me/201114571370",
 
-        merchant_url: "https://wa.me/201225655220"
+        merchant_url: "https://wa.me/201114571370"
 
     })
 
